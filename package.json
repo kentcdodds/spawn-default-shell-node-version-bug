@@ -5,7 +5,9 @@
   "repository": "git@github.com:kentcdodds/spawn-default-shell-node-version-bug.git",
   "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "test": "node spawn.js"
+  },
   "dependencies": {
     "spawn-command": "^0.0.2-1",
     "spawn-default-shell": "^2.0.0"
