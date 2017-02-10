@@ -5,3 +5,4 @@ I think that `spawn-default-shell` has a bug where it loads a shell that doesn't
 I suggest using `spawn-command` instead.
 
 I've only been able to reproduce this on travis-ci.
+
