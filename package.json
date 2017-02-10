@@ -1,0 +1,13 @@
+{
+  "name": "spawn-default-shell-node-version-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kentcdodds/spawn-default-shell-node-version-bug.git",
+  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "spawn-command": "^0.0.2-1",
+    "spawn-default-shell": "^2.0.0"
+  }
+}
